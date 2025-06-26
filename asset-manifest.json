@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Language-Flashcards/static/css/main.e6189e9b.css",
+    "main.js": "/Language-Flashcards/static/js/main.d719c2e4.js",
+    "index.html": "/Language-Flashcards/index.html",
+    "main.e6189e9b.css.map": "/Language-Flashcards/static/css/main.e6189e9b.css.map",
+    "main.d719c2e4.js.map": "/Language-Flashcards/static/js/main.d719c2e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6189e9b.css",
+    "static/js/main.d719c2e4.js"
+  ]
+}
